@@ -1,0 +1,8 @@
+# Core UI uses tkinter from the Python standard library (bundled with python.org installers).
+# Both packages below are optional but recommended.
+
+# Real Windows shell icons and image thumbnails on tiles
+pillow>=10.0,<13
+
+# Drag files in from File Explorer
+tkinterdnd2>=0.4,<1
